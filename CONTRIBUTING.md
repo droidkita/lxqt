@@ -17,7 +17,7 @@ For more information on git, see the official website:
 Please make sure you adhere to the project's styleguide when proposing changes.
 
 A more in-depth document for aspiring contributors is located on the LXQt wiki:
-  https://github.com/lxqt/lxqt/wiki/Contributing-code
+  https://lxqt-project.org/wiki/Contributing-code
 
 Also see Github's guide on Contributing to Open Source:
   https://guides.github.com/activities/contributing-to-open-source/
@@ -29,7 +29,7 @@ Translations
 We use [Weblate](https://translate.lxqt-project.org) for all our translations. 
 QtLinguist will still work.
 
-See further instructions in [wiki page Translation](https://github.com/lxqt/lxqt/wiki/Translation).
+See further instructions in [wiki page Translation](https://lxqt-project.org/wiki/Translation).
 
 
 
